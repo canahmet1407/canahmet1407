@@ -14,4 +14,4 @@ Ekipte algılama ve takip tarafından sorumluyum: veri seti hazırlama, YOLO mod
 `Python` `OpenCV` `YOLO (Ultralytics)` `Hailo DFC` `Roboflow` `ROS 2` `Gazebo` `ArduPilot` `MAVLink` `Raspberry Pi 5` `Linux`
 
 ### 📫 İletişim
-[hmcnatik@gmail.com](mailto:hmcnatik@gmail.com) · Takım: [hurturkuavteam.github.io](https://hurturkuavteam.github.io)
+[hmcnatik@gmail.com](mailto:hmcnatik@gmail.com) ·
