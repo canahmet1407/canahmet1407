@@ -1,6 +1,6 @@
 ## Merhaba, ben Can 👋
 
-Kocaeli Üniversitesi Mekatronik Mühendisliği öğrencisiyim. **HÜRTÜRK İHA Takımı**'nın kaptanı ve görüntü işleme birimi lideriyim; TEKNOFEST Savaşan İHA kategorisinde (2024 finalisti) otonom sabit kanatlı İHA'lar geliştiriyoruz.
+Kocaeli Üniversitesi Mekatronik Mühendisliği öğrencisiyim. **HÜRTÜRK İHA Takımı**'nın kaptanı ve görüntü işleme birimi lideriyim; TEKNOFEST Savaşan İHA kategorisinde otonom sabit kanatlı İHA'lar geliştiriyoruz.
 
 Ekipte algılama ve takip tarafından sorumluyum: veri seti hazırlama, YOLO modelleri eğitme, modelleri gömülü donanımda gerçek zamanlı çalıştırma ve hedef takibi.
 
